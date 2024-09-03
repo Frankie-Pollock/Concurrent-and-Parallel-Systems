@@ -34,11 +34,6 @@ Both projects emphasize parallelization techniques and require a detailed report
 - **Methodology:** Justify the chosen parallelization techniques.
 - **Results:** Evaluate performance, include hardware setup, and present findings with graphs.
 
-### Submission Guidelines
-- **Due Date:** Thursday, 02 November 2023, 17:00
-- **Deliverables:** Source code, CMakeLists.txt, and a report (up to 3000 words) in a ZIP file.
-- **Submission:** Via Moodle
-
 ---
 
 ## Project 2: N-Queens Problem
